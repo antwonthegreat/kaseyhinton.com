@@ -1,0 +1,50 @@
+html, body {
+	font-family:  sans-serif;
+	background-color:#1A1A1D;
+	color: #EAEAEA;
+	-webkit-font-smoothing: antialiased;
+	user-select: none;
+}
+
+x-name {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50%, -50%);
+}
+
+h1 {
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: bold;
+	color: #557A95;
+	font-size: 80px;
+	padding: 24px;
+}
+
+h1 > span {
+	color: #EAEAEA;
+}
+
+x-nav {
+	position: absolute;
+	right: 8px;
+	bottom: 0;
+}
+
+svg {
+	fill: #557A95;
+	width: 64px;
+	height: 64px;
+	transition: .2s ease-in;
+}
+
+svg:hover {
+	fill: #7395AE;
+}
+
+@media(max-width: 375px){
+	h1 {
+		font-size: 72px;
+	}
+}

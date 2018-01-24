@@ -1,0 +1,16 @@
+{
+  "name": "kaseyhinton",
+  "short_name": "kasey",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EAEAEA",
+  "theme_color": "#557A95",
+  "icons": [
+    {
+      "src": "/assets/icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
