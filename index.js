@@ -28,7 +28,7 @@ export default class App extends Component {
             </svg>
           </a>
           <a
-            title="resume"
+            title="Résumé"
             href="https://www.dropbox.com/s/xbm4nxh9e87i0oq/kaseyhinton.pdf?dl=0">
             <svg viewBox="0 0 24 24">
               <path
