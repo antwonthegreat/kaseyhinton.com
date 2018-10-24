@@ -10,6 +10,7 @@ export default class App extends Component {
           rel="stylesheet"/>
 
         <x-name>
+          <img src="https://avatars3.githubusercontent.com/u/3341?s=400&v=4"></img>
           <h1>KASEY<span> HINTON</span>
           </h1>
         </x-name>
